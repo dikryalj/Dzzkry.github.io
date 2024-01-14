@@ -973,7 +973,7 @@ textarea.input-field {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-   background: var(--color-secondary);
+
 }
 
 .scroller[data-animated="true"] {
