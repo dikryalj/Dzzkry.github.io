@@ -1,3 +1,11 @@
+let titleText = ["WELCOME", "MY WEB", "PORTOFOLIO"];
+let counter = 0;
+
+setInterval(function() {
+  document.title = titleText[counter % titleText.length];
+  counter++;
+}, 2000);
+
 'use strict';
 // prelod
 var loader = document.getElementById("prelod");
