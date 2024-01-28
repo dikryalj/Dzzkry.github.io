@@ -1,4 +1,4 @@
-let titleText = ["WELCOME", "MY WEB", "PORTOFOLIO"];
+let titleText = ["WELCOME", "MY WEB", "PORTOFOLIO", "DZZKRY"];
 let counter = 0;
 
 setInterval(function() {
